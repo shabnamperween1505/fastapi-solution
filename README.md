@@ -1,4 +1,4 @@
-# fastapi-solution
+# Fastapi-assessment-solution
 
 To run all the tests on API of Task-1 :
 ```
