@@ -1,6 +1,12 @@
 # Fastapi-assessment-solution
 
 To run all the tests on API of Task-1 :
+Start the server :
+```
+uvicorn app.main:app --reload
+```
+<br/>
+Run tests :
 ```
 pytest app/test.py 
 ```
