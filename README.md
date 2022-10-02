@@ -6,9 +6,9 @@ Start the server :
 ```
 uvicorn app.main:app --reload
 ```
-<br/>
+
 Run tests :
-<br/>
+
 
 ```
 pytest app/test.py 
