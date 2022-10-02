@@ -3,6 +3,7 @@
 ## To run all the tests on API of Task-1 :
 <br/>
 Start the server :
+
 ```
 uvicorn app.main:app --reload
 ```
