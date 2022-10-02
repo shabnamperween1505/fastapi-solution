@@ -1,7 +1,6 @@
 # Fastapi-assessment-solution
 
 ## To run all the tests on API of Task-1 :
-<br/>
 Start the server :
 
 ```
@@ -20,8 +19,7 @@ pytest app/test.py
 pytest app/valid-parentheses.py
 ```
 
-## To run the code for the valid-parantheses problem, paste the statement -> print("{[(){}]}", Solution.isValid(self= Solution, s="{[(){}]}"))
-and run :
+## To run the code for the valid-parantheses problem, paste the statement -> print("{[(){}]}", Solution.isValid(self= Solution, s="{[(){}]}")) and run :
 ```
 python app/valid-parentheses.py
 ```
